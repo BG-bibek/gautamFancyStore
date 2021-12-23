@@ -1,0 +1,30 @@
+# database view for customer
+# c.execute("""CREATE TABLE customer (
+#         id integer,
+#         name text,
+#         address text,
+#         number integer,
+#         type text,
+#         total integer
+# ) """)
+
+# database view for cusBought
+# c.execute("""CREATE TABLE cusBought (
+#         name text,
+#         price interger,
+#         quantity integer,
+#         total integer,        
+#         description text
+#         cusId integer 
+# ) """)
+    
+# database view 
+# c.execute("""CREATE TABLE items (
+#         id integer,
+#         name text,
+#         price interger,
+#         quantity integer,
+#         description text
+
+# ) """)
+
